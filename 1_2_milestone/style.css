@@ -1,0 +1,160 @@
+.main-div{
+    width: 25wv;
+    height:25vh;
+    display:flex;
+    background-color: #4697d5;
+    margin-right:auto;
+    margin-left:auto;
+    margin-top:40px;
+}
+
+.inside-image-div img{
+    border-radius:30px;
+    border:3px solid white;
+    margin-left:150px; 
+    margin-top:30px;   
+
+}
+.heading-div .name-div{
+    font-size:48px;
+    font-weight:bold;
+    line-height:24px;
+    letter-spacing:3px;
+    margin-left:340px;
+    margin-top:50px;
+    color:#FFFF;
+}
+.web-devloper-div .inside-web{
+    margin-top:100px;
+    margin-left:-330px;
+    font-size:20px;
+    font-weight:700;
+    line-height:25px;
+    letter-spacing:12px;
+}
+.profile .profile-heading{
+    text-align: center;
+    font-size:48px;
+    margin-top:20px;
+    font-weight:bold;
+}
+.profile .profile-text{
+    margin-left:180px;
+    margin-right:180px;
+    font-size:16xp;
+    font-weight:500;
+    line-height:24px;
+}
+.bootstrap-icons-linkedin{
+    display:flex;
+    margin-left:-430px;
+    font-size:7px;
+    justify-content:space-between;
+    color:#FFF;
+    letter-spacing:4px;
+}
+.education{
+    color: #2d3239;
+    margin-left:180px;
+    margin-top:20px;
+}
+.education .education-heading{
+    font-size:48px;
+    font-weight:400;
+    line-height:24px;
+}
+.education .education-year{
+    margin-top: -13px;
+}
+.education-detail{
+    margin-top: -13px;
+    font-size: 16px;
+    line-height: 24px;
+}
+.skills ul{
+    display:flex;
+    flex-direction:column;
+    gap:20px;
+    list-style-type: square;
+    margin-left: -30px;
+}
+.skills-div{
+    font-size:48px;
+}
+.prog li{
+    font-size:16px;
+    font-weight:400;
+    line-height:30px;
+    
+}
+.personal-quality h1{
+    font-size:48px;
+}
+.personal-quality h3{
+    display:flex;
+    flex-direction:column;
+    gap:2px;
+    margin-left: -10px;
+}
+.personal-quality h3{
+    font-size:16px;
+    font-weight:400;
+    /* line-height:24px; */
+
+}
+.vertical{
+    margin-top: -604px;
+    border-left: 2px dotted black;
+    height:700px;
+    position: absolute;
+    left:50%;
+    
+}
+.experience h1{
+    font-size:48px;
+    margin-left: 50px;
+    margin-top: -3px;
+}
+.giaic-exp h3{
+    font-size:20px;
+    margin-left:50px;
+    margin-top: -14px;
+}
+.giaic-exp p{
+    font-size: 16px;
+    font-weight: 400;
+    margin-left:50px;
+}
+.languages h1{
+    margin-left: 50px;
+}
+.languages ul{
+    list-style-type: disc;
+    display:flex;
+    flex-direction:column;
+    gap:12px;
+    margin-left:40px;
+    
+}
+.languages li {
+    margin-left: -15px;
+}
+.contact .icons{
+    margin-left:50px;
+    display:flex;
+    flex-direction:column;
+    
+}
+.contact .env{
+    gape:20px;
+}
+.btn{
+    width: 180px;
+    padding:20px;
+    background:green;
+    color:#fff;
+    text-align:center;
+    cursor:pointer;
+    margin-left: 580px;
+
+}
